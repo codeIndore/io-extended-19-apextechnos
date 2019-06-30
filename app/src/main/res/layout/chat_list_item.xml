@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/chat_item_text_view"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+android:textSize="18sp"
+android:fontFamily="sans-serif-light"
+android:src="@drawable/recieve_message_background"
+android:padding="8dp">
+
+</TextView>
